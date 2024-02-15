@@ -1,1 +1,1 @@
-Working with java.lang.invoke
+Simplifying java.lang.invoke
